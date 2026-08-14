@@ -1,6 +1,6 @@
 # Swag Labs — QA Testing Assignment
 
-**Tester:** [Your Name]  
+**Tester:** Muhammad Mehboob 
 **Website tested:** https://www.saucedemo.com  
 **Type:** Manual QA Testing  
 **Date:** August 14, 2026
