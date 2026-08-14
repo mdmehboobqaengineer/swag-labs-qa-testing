@@ -1,6 +1,6 @@
 # Bug Report — Swag Labs (saucedemo.com)
 
-**Tester:** [Your Name]  
+**Tester:** Muhammad Mehboob  
 **Date:** August 14, 2026  
 **Browser:** Chrome (latest)  
 **Test URL:** https://www.saucedemo.com  
