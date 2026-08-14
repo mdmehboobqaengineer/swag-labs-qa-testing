@@ -1,6 +1,6 @@
 # Test Plan — Swag Labs (saucedemo.com)
 
-**Tester:** [Your Name]  
+**Tester:** Muhammad Mehboob
 **Date:** August 14, 2026  
 **Type:** Manual QA Testing
 
